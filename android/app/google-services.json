@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "824062900059",
+    "firebase_url": "https://bestprices-4a1c5.firebaseio.com",
+    "project_id": "bestprices-4a1c5",
+    "storage_bucket": "bestprices-4a1c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824062900059:android:a974994c44983b10",
+        "android_client_info": {
+          "package_name": "com.bestprices_native"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824062900059-scnnl4b80vh5r5akp1qvoums1gvj10j4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bestprices_native",
+            "certificate_hash": "678F0A6B45B38CBA8EFF68B6ACB74E2F7D7F4526"
+          }
+        },
+        {
+          "client_id": "824062900059-k8561k1bsuldn2stn2s13lr3h5p427u6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bestprices_native",
+            "certificate_hash": "38B5C6AF32BE8ACC1CBBF78FE52D2836F07660D3"
+          }
+        },
+        {
+          "client_id": "824062900059-tjv770k40enuqbea3264ba8dpq3c2rq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdeUelyAAjPEgXsRldx2b-LmCjWxxkI4Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824062900059-tjv770k40enuqbea3264ba8dpq3c2rq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

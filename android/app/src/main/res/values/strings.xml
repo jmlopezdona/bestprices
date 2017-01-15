@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">liQGYcTamYtF7VOBnS7821sPwCXOVJrezTC7M</string>
+    <string name="app_name">Best Prices</string>
+</resources>
